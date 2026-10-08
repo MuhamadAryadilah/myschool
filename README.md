@@ -1,5 +1,7 @@
 # MySchool
 
+![Tests](https://github.com/MuhamadAryadilah/myschool/actions/workflows/tests.yml/badge.svg)
+
 Aplikasi web sekolah berbasis Laravel: pendaftaran siswa baru online, tagihan dan pembayaran dengan unggah bukti transfer, serta pengelolaan berita dan ekstrakurikuler.
 
 ## Fitur
